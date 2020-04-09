@@ -14,6 +14,18 @@ Terminator theme based on hackthebox visual studio code theme. Copy the Hachtheb
 
 ![Terminal](https://raw.githubusercontent.com/InitRoot/HackTheBoxTerminatorTheme/master/terminalexample.png)
 
+![YTOP](https://raw.githubusercontent.com/InitRoot/HackTheBoxTerminatorTheme/master/ytopexample.png)
+
+### Theme Profile
+    [profiles]
+     [[Hackthebox]]
+        background_color = "#111927"
+        background_darkness = 0.95
+        cursor_color = "#aaaaaa"
+        font = JetBrains Mono NL 10
+        foreground_color = "#c5d1eb"
+        palette = "#2e3436:#ff3e3e:#9fef00:#ffaf00:#004cff:#9f00ff:#2ee7b6:#ffffff:#555753:#ff8484:#c5f467:#ffcc5c:#5cb2ff:#c16cfa:#5cecc6:#ffffff"
+        use_system_font = False
 
 
 ### Refer Here:
