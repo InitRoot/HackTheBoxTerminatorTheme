@@ -1,5 +1,5 @@
 # HackTheBox Terminator Theme
-Terminator theme based on hackthebox. Copy into your .config/terminator/config and then apply the theme through settings.
+Terminator theme based on hackthebox. Copy the Hachthebox profile into your .config/terminator/config and then apply the theme through settings.
 
 ![Colors](https://raw.githubusercontent.com/InitRoot/HackTheBoxTerminatorTheme/master/image.png)
 
