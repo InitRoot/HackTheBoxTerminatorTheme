@@ -1,5 +1,5 @@
 # HackTheBox Terminator Theme
-Terminator theme based on hackthebox visual studio code theme. Copy the Hachthebox profile into your .config/terminator/config and then apply the theme through settings. Ensure to install the JetBrains Mono Font as well.
+Terminator theme based on hackthebox visual studio code theme. Copy the Hachthebox profile into your `.config/terminator/config` and then apply the theme through settings. Ensure to install the JetBrains Mono Font as well.
 
 ### Palette
 
